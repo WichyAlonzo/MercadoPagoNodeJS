@@ -1,0 +1,46 @@
+{
+    "pedidos": [
+        {
+            "code": "AL145",
+            "nombre": "Fernando Gonzales",
+            "price": "145",
+            "phone": "4451540656"
+        },
+        {
+            "code": "Q1A6NT1023",
+            "nombre": "Alan Cliente Alitas",
+            "price": "239",
+            "phone": "4451812335"
+        },
+        {
+            "code": "KEVIN2023",
+            "nombre": "KEVIN",
+            "price": "150",
+            "phone": "4451540656"
+        },
+        {
+            "code": "ALCA2023",
+            "nombre": "Alan Cliente Alitas",
+            "price": "139",
+            "phone": "4451812335"
+        },
+        {
+            "code": "ALARGUE2023MK",
+            "nombre": "Alvaro Arguelles",
+            "price": "3699",
+            "phone": "6442542180"
+        },
+        {
+            "code": "65SDF546",
+            "nombre": "Jose luis",
+            "price": "45",
+            "phone": "5610022131"
+        },
+        {
+            "code": null,
+            "nombre": null,
+            "price": null,
+            "phone": null
+        }
+    ]
+}
